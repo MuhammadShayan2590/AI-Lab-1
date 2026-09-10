@@ -1,4 +1,6 @@
 # AI-Lab-1
+Student Name: Muhammad Shayan
+Registration Number: 544810
 Designing fractal designs through a program and using AI and making a usable fractal design.
 The tools used have been provided below:
 BARNSLEY FERN PROGRAM — LIBRARIES & TOOLS USED
